@@ -5,3 +5,7 @@ Knex
 SQL Lite
 Node-JS
 React Native
+Html 5
+Css
+Javascript
+PHP
