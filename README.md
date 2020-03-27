@@ -1,7 +1,9 @@
 # Semana-Omnistack11.0
+In this projetc, I'm working with this:
+
 Insomnia
 Visual studio code
-Knex
+KnexJs
 SQL Lite
 Node-JS
 React Native
